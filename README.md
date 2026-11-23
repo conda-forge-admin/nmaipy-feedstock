@@ -192,6 +192,3 @@ Feedstock Maintainers
 * [@bretttully](https://github.com/bretttully/)
 * [@mbewley](https://github.com/mbewley/)
 
-
-<!-- dummy commit to enable rerendering -->
-
